@@ -8,5 +8,5 @@ projet: qr_decomp.o
 .PHONY: clean
 
 clean:
-	rm -f model validate *.o
+	rm -f model validate *.o qr_decomp
 	
