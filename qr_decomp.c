@@ -1,6 +1,3 @@
-//Harimbola RANAIVO 
-//21205612
-//M1 SFPN
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
