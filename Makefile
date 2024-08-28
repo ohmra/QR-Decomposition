@@ -1,9 +1,9 @@
 LDLIBS = -lm 
 CFLAGS = -Wall -g -O3
 
-ALL: projet
+ALL: qr_decomp
 
-projet: projet.o
+projet: qr_decomp.o
 
 .PHONY: clean
 
